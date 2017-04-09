@@ -16,5 +16,6 @@ blogdown::new_site()
 # blogdown::install_theme('saey55/hugo-elate-theme')
 blogdown::serve_site()
 
-#for gh pages need  docs or gh-pages folder  for public move public up
-
+#for gh pages need  docs or gh-pages 
+#folder  for public move public up
+git checkout  gh-pages
