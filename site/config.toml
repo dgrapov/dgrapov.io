@@ -1,8 +1,8 @@
 baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
-title = "A Hugo website"
-theme = "hugo-lithium-theme"
+title = "CDS- Creative Data Solutions"
+theme = "hugo-tracks-theme"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -21,7 +21,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "https://twitter.com/rstudio"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Connecting data with context, when you want to get to know and love your data"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.10.0"
@@ -30,7 +30,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     highlightjsTheme = "github"
 
     [params.logo]
-    url = "logo.png"
+    url = "post/img/pie.jpg"
     width = 50
     height = 50
     alt = "Logo"
