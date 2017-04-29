@@ -1,0 +1,10 @@
+---
+title: "image"
+author: "test"
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+image: "post/img/pie.jpg"
+showonlyimage: true
+---
+
+## This is a post which will get an image on the side of the row.
